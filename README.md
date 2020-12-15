@@ -1,4 +1,4 @@
-# simon-game
+# vue-simon-game
 
 ## Project setup
 ```
